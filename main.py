@@ -11,7 +11,7 @@ import os
 """ SETTINGS """
 save_image = True #Optional saving of the processed image
 image_dir = 'images/' #Directory of the images
-image_name = 'rgbhouse1' #Name of the image
+image_name = 'rgbhouse4' #Name of the image
 image_ext = '.jpg' #Image extension
 output_image_dir = image_dir +'processed/' +image_name #Directory for the processed images
 highThresholdRatio = 0.09

@@ -1,8 +1,15 @@
-###Basic canny edge detection in Python 3.7 
-Used packages: 
-  
-    scikit-image  
-    numpy  
-    matplotlib  
-    scipy
-    
+# Basic Python canny edge detection
+
+
+#### Used packages:
+  - skimage
+  - numpy
+  - scipy
+  - matplotlib
+
+
+3 sample images included (post and pre process). 
+Link to images: 
+  - rgbhouse1 https://unsplash.com/photos/0Vdrg5pR7NY
+  - rgbhouse2 https://unsplash.com/photos/1ddol8rgUH8
+  - rgbhouse3 https://unsplash.com/photos/PJMbzWAz26M
